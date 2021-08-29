@@ -1,1 +1,2 @@
-## PC端可查看
+## PC端可点击以下链接预览：
+https://zzzoucy.github.io/pikachu-mobile/dist/
